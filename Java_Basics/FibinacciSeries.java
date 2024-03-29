@@ -1,3 +1,4 @@
+package Java_Basics;
 import java.util.Scanner;
 //Fibonacci series print
 public class FibinacciSeries {

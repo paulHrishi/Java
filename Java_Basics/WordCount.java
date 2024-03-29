@@ -1,3 +1,4 @@
+package Java_Basics;
 import java.util.HashMap;
 import java.util.Scanner;
 // this peice of code is written for counting words i string..
